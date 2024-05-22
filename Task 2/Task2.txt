@@ -1,2 +1,19 @@
-Task 2, to be done 
-task 2 for learning purpose
+Q2 - Done by Mariya Francis - 500233775
+
+Evernote is developed by Evernote Corporation and this software helps us to take notes and update the same with audio, images and web contents. Virtual notebooks are used to organize notes, which can then be categorized, tagged, edited, searched, and exported to other users for use.
+
+Evernote is software as a service product. Below are my justifications for the same.
+* Evernote is delivered over the internet as a service. Clients access their own Evernote accounts to use Evernote, on operating systems like Windows, Mac OS, iOS, Android, and web browsers. This fits the description of a software-as-a-service category, in which customers access software remotely from a centralized server or location. 
+* Evernote has different subscription tiers with different capabilities and limitations, such as Personal and Professional. On a SaaS models, users pay for continuous access to the service by subscribing to various levels on a monthly or annual basis. 
+* Evernote hosts its servers in the cloud, where it keeps user data (notes, photos, audio, etc.). This makes it possible for data to sync seamlessly between several client devices. One key component of SaaS solutions is the ability for its users to view and amend their notes via the internet from anywhere on the internet across the globe. 
+* The Evernote Corporation provides Evernote with regular updates, maintenance, and enhancements. Its SaaS behavior is further justified by the fact that users benefit from these upgrades without having to manually install or update the software on their client devices. The quantity of notes, upload size, and other usage restrictions determine the Evernote subscription tiers. 
+* Subscribers pay according to their consumption, which is consistent with the pay-per-use strategy found in many SaaS products.
+
+Evernote does not adhere to the conventional structure of a Software Product Line (SPL)
+* Software Product Line usually consists of related products with customized versions to fulfill various customer needs, build on a common core. However, Evernote is a single program with two distinct subscription levels (Personal and Professional) that provide various features and capacities, but they are not independent products with different codebases or configurations. 
+* Software Product Lines include configuration and customization choices to meet the specific software needs of individual customers. Evernote do provide various membership tiers with different features; these are pre-defined packages rather than fully configurable setups. 
+* Software product lines necessitate an organized method for handling shared assets, controlling differences among products, and responding to changing consumer demands. Rather than maintaining a variety of unique product versions, Evernote's development and maintenance team concentrates more on improving the core program and introducing functionality across its different subscription tiers. 
+* Evernote's note taking and task-management features are aimed at a large scope of users. However, software product lines are frequently created for specific business categories which need customized solutions. 
+* To handle upgrades, and releases across several products, software product lines frequently use continuous integration and deployment techniques. For its single application, Evernote releases updates and new features on a more conventional software release cycle.
+
+In conclusion, rather than being a Software Product Line, all of Evernote's features fit the definition of a Software as a Service product.
