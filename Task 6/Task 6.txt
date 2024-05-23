@@ -1,0 +1,56 @@
+Understanding of Jira software
+As a student, my experiences with Jira software is primarily gained from tutorial videos related to project management, educational videos and customer reviews. The JIRA software is developed by Atlassian, and it offers features that are helpful in both software development and project management teams. In fact, JIRA can be easily implemented to organizations adopting agile methodologies like Scrum, Kanban boards, and customizable workflows (Atlassian, n.d.-a).
+
+Ease of Use Perception
+From the videos and article researches what i acquired is that JIRA is very complicated for the beginners especially members who are new to project management tools. In addition, many user reviews stated that the user interface or user friendliness is very complex at the beginning and not that easy to grasp everything at a single glance. However, once mastered the techniques and features it provides like the reporting tools and customization options, Jira is top best management tool that can be implemented for better management especially in Agile methodologies  (TechRadar, 2023).
+
+Introduction to Asana 
+Asana is a imperative project management tool used by many organization which helps different teams for organization, keeping track of their project status and managing team members. Asana was developed by Dustin Moskovitz and Justin Rosenstein in 2008, mainly outstands other management tools because of its user-friendliness and affordability. In addition, other features includes task management, project views, integration using different productivity tools providing project workflow easiness thereby enhancing team productivity (Asana, n.d.-a).
+
+Comparison with Asana
+
+Jira features
+
+Agile Boards : A Scrum and Kanban board availability highlights this as an ideal tool for managing agile projects
+Custom workflows  : Jira is designed to fit specific project requirement needs with highly customizable workflows in project management.
+Issue tracking : Jira outputs detailed issue and bug tracking reporting during the project management, which indirectly is so imperative for software development team.
+Advanced Reporting: The advanced reporting feature provides detailed analytics and reports, such as burndown charts and velocity charts.
+Integrations   : Connectivity to different application is a major factor in any project management tools, cause it increases and provides more easiness to product users. In fact Jira seamlessly connect to other Atlassian products and a variety of third-party applications (Atlassian, n.d.-b).
+
+
+
+Asana features
+
+Task management: Asana offers simple and inbuilt task management lists, subtask and the dependencies which provides better user interface and easiness.
+Project views     : Asana management tools displays wide varieties of project views which includes calendar, timeline, list , boards and so on.
+User interface  : The main features which stands out Asana from other application is its user friendliness feature it provides to customers for any beginners to grasp and navigate each of its other features
+Collaborations: It draws out team collaboration methods like mentions, attachments or comments to provide easiness to team or the organization management.
+Integration : Connectivity is crucial to any application like this, Asana features supports connectivity to applications like the Slack, Google drive and Microsoft Teams etc. (Asana, n.d.-b).
+
+Preference
+
+For Software Development Projects:
+Based on my research what i concluded, Jira could be preferred as a best choice for software development project, even though its complicated for beginners once mastered it more ease for team management. Besides providing more details on issue tracking and workflows, Jira's tailored reports are exactly what team managers need to understand and deal with the complexities of software development  (Atlassian, n.d.-a; Atlassian, n.d.-b).
+
+For General Project Management and Collaboration:
+As mentioned before Asana is well known for its user friendly interface that they provide to their customers. Its simple interface and features provides users a excellent choice for wide variety of project types that handles less complexities especially for users who don't require that extensive features of JIRA. Moreover Asana project monthly subscriptions are more cheaper while compared to Jira. Thus, implementing Asana in a company that prioritizes team collaboration over features is preferable to implementing JIRA (Asana, n.d.-a; Asana, n.d.-b).
+
+A second option would be to combine Jira and Asana, which is more useful for large organizations since it combines the strengths of both tools, offering a more user-friendly and comprehensive way for organizations to manage themselves. In fact, various third-party tools can be used to align both tools, leading to increased efficiency in team management.
+
+Conclusion
+In a nutshell, both Jira and asana provides robust features on specific needs and requirements. Jira tools with complex functionalities emphasize on software development whereas Asana provide more user friendly atmosphere and focus on team collaboration.
+
+Based on my understanding of these tools, Asana appeals to me because of its easy-to-use interface and ease of learning. It also helps me learn things quickly and implement things within a limited time frame.
+
+References
+
+Atlassian. (n.d.-a). JIRA software: Agile project management tool. Retrieved from https://www.atlassian.com/software/Jira
+
+Atlassian. (n.d.-b). JIRA features. Retrieved from https://www.atlassian.com/software/jira/features
+
+Asana. (n.d.-a). Asana: Work management platform teams use to stay focused on the goals, projects, and daily tasks. Retrieved from https://asana.com
+
+Asana. (n.d.-b). Asana features. Retrieved from https://asana.com/features
+
+TechRadar. (2023). JIRA review. Retrieved from https://www.techradar.com/reviews/jira
+
