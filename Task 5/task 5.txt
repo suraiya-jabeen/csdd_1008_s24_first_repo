@@ -1,0 +1,25 @@
+Simon Ryding, A Civil Engineer
+
+
+Simon, aged 27, is a civil engineer working on a techno city project in dubai. He has been in this profession for the past 3 years. He is originally from Australia, born in Sydney, where he grew up and completed his graduation from the University of Queensland. Ever since he was child, he was fascinated by structures of the buildings and bridges of Australia and pursued a profession in this field. Simon has worked for a mid-sized construction company but this is his biggest break where he wants to stand out and learn new skills.
+
+
+In his current role, Simon is responsible for bountiful of tasks which includes, keeping track of area of construction assigned to him, creating a daily report on the progress made and constraints occurred, a mitigation plan or necessary changes he has made to overcome those challenges and assigning appropriate labour, equipments, tools and safety measures to various tasks. As much as Simon loves creating innovative designs of various structures, he hates making the mundane reports on a daily basis which are time consuming, especially when he has a lot more on his plate to tackle with. 
+
+
+Simon’s Scenario1: using evernote for making and customising templates
+
+
+Simon is working on the techno city project in a large construction company, as this project is huge and he has too many responibilities to which he is not that much familiar, it is being difficult for him to complete his reports and other tasks on time in appropriate manner. After consulting with his senior fellow engineer he got to know that he can utilise evernote which has recently been integrated with their company’s actual CRM system, which offers creating or customising the templates for reports and other documents. Simon opens the evernote app, logs in using his company account. There are different portals for each department and Simon goes for his civil engineering department where he is asked to enter his department specific ID and then Simon is led to his dashboard. He prompts for report creation and then clicks on the three dots on the top left corner where he can see the templates option. After going into templates, he sees there is a great number of templates for various different situations which can also be found using the search bar provided to avoid going through all the templates for a specific situation. He can download the templates and add them to his dashboard, customise them and save them for future reference. He also finds that evernote keeps the history of all the reports he has generated using those templates which can later be helpful to measure the overall performance of the project.
+
+
+
+
+Simon’s Scenario2: Advanced search on Evernote app
+As the project makes progress it is getting difficult for Simon to manage all the data. Although Evernote provides the feature of uploading various multimedia files, sometimes it gets tiresome to filter out the specific file from a pile of files. Hopefully, after consulting the IT help desk Simon gets to know that he can upload the drawings of various sites he manages, meeting recordings and other content such as images, audio files in his portal. Evernote provides the feature that can make Simons work easy by filtering out the content based on category(e.g. Images, audio and video files). He can also sort it out by date and alphabetically. In addition to this feature, Simon can provide access to other privileged employees or management to view the data based on their role or designation thus ensuring the confidentiality of information as well as actions like sending or sharing daily reports, site videos which occur usually can be automated.
+User stories.
+1. As a project manager, I want to be able to access reports from various ongoing projects from a central location where I can update and save the reports at same time. And other authorised employees can access and view the reports.
+2. As a site engineer, I would like to get notification for my team who is not working/ absent on which date. So that I can manage the work accordingly and make work commitments as per team availability.
+3. As a human resources manager, I want to plan all the work to be done on a daily basis for the next one week so I can assign required labour, tools and equipment in advance and can integrate it with the asset manager so they can be in compliance with asset availability.
+4. As an assets manager, I want to know how many assets are assigned under which project and on which date it was assigned with a deadline when it will be returned so that I can reassign the assets to other sites according to their availability.
+.
