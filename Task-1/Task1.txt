@@ -2,6 +2,13 @@ Task-1 done by Navdeep Kaur-500235082
 
 Product vision statement for Evernote Corporation
 
-At Evernote Corporation, out vision is TO empower busy professionals, students and creative thinkers WHO requires an extensive platform to record, organize and retrieve their ideas with ease across all devices. We strive to create a dynamic digital workspace THAT integrates powerful note-making, managing tasks and group collaboration features UNLIKE other insufficient complex and integrated productivity apps. OUR PRODUCT offers a seamless experience with smart synchronization, intelligent search and numerous third-party connectors to keep users organized and productive.
+At Evernote Corporation, out vision is TO empower busy professionals, students and creative thinkers 
+WHO requires an extensive platform to record, organize and retrieve their ideas with ease across all devices. 
+We strive to create a dynamic digital workspace THAT integrates powerful note-making, managing tasks and group 
+collaboration features UNLIKE other insufficient complex and integrated productivity apps. OUR PRODUCT offers a
+seamless experience with smart synchronization, intelligent search and numerous third-party connectors to keep 
+users organized and productive.
 
-Our mission is to fully transform how people learn, work and create by encouraging creativity, raising productivity and supporting effective teamwork. As a team, we are shaping the future of productivity and enabling people to achieve more, connect deeply and inspire greatness." 
+Our mission is to fully transform how people learn, work and create by encouraging creativity, 
+raising productivity and supporting effective teamwork. As a team, we are shaping the future of 
+productivity and enabling people to achieve more, connect deeply and inspire greatness." 
